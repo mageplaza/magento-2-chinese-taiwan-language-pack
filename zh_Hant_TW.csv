@@ -34,7 +34,7 @@
 "Total of %1 record(s) have been removed.","共有 %1 條記錄已被刪除。",module,Magento_AdminNotification
 "We couldn't remove the messages because of an error.","發生錯誤，我們未能刪除訊息。",module,Magento_AdminNotification
 "The message has been removed.","該訊息已被刪除。",module,Magento_AdminNotification
-"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.",module,Magento_AdminNotification
+"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","已顯示所有最新的系統通知。 要清除通知，請重新整理網頁。",module,Magento_AdminNotification
 "1 Hour","1 小時",module,Magento_AdminNotification
 "2 Hours","2 小時",module,Magento_AdminNotification
 "6 Hours","6 小時",module,Magento_AdminNotification
