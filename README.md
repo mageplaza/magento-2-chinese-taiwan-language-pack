@@ -89,8 +89,11 @@ Unzip the Chinese Taiwan language pack to Magento 2 root folder. In this guide, 
 Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html/`
 
 ```
-unzip master.zip app/i18n/Mageplaza/zh_hant_tw
+unzip master.zip app/i18n/Mageplaza/
 ```
+
+Rename folder `magento-2-chinese-taiwan-language-pack` to `zh_hant_tw`.
+
 
 You also can unzip locally and upload them to Magento 2 root folder.
 
@@ -110,7 +113,11 @@ To download and install Chinese Taiwan pack manually, you have to access to your
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `zh_Hant_TW.zip` into `app/i18n/mageplaza/zh_Hant_TW/zh_Hant_TW.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/zh_hant_tw/zh_Hant_TW.csv`
+
+See this screenshot
+
+![Chinese Taiwan pack](https://i.imgur.com/tS668yC.png)
 
 #### Step 2: Flush cache
 
