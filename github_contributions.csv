@@ -251,3 +251,588 @@ Dismiss,忽略,module,Magento_AsynchronousOperations
 "Something went wrong.",發生錯誤,module,Magento_AsynchronousOperations
 "Action Log",操作記錄,module,Magento_AsynchronousOperations
 "Bulk Actions",批量操作,module,Magento_AsynchronousOperations
+"Credit Card: xxxx-%1","信用卡︰ xxxx-%1",module,Magento_Authorizenet
+"amount %1","金額 %1",module,Magento_Authorizenet
+failed.,失敗。,module,Magento_Authorizenet
+successful.,成功。,module,Magento_Authorizenet
+"Authorize.Net Transaction ID %1.","Authorize.Net 交易記錄 ID %1。",module,Magento_Authorizenet
+authorize,授權,module,Magento_Authorizenet
+"authorize and capture",授權和提取,module,Magento_Authorizenet
+capture,提取,module,Magento_Authorizenet
+refund,退款,module,Magento_Authorizenet
+void,無效,module,Magento_Authorizenet
+"Gateway error: %1","閘道錯誤: %1",module,Magento_Authorizenet
+"Something went wrong in the payment gateway.",支付閘道錯誤,module,Magento_Authorizenet
+"Invalid amount for capture.",提取的金額無效。,module,Magento_Authorizenet
+"Payment capturing error.",提取付款時出現錯誤。,module,Magento_Authorizenet
+"Invalid transaction ID.",無效的交易號碼,module,Magento_Authorizenet
+"Payment voiding error.",支付無效,module,Magento_Authorizenet
+"Invalid amount for refund.",退款金額無效。,module,Magento_Authorizenet
+"Payment refunding error.",退款錯誤,module,Magento_Authorizenet
+"The transaction was declined because the response hash validation failed.",回應的hash認證失敗，拒絕交易,module,Magento_Authorizenet
+"This payment didn't work out because we can't find this order.",這筆付款項無效，因為我們找不到此訂單。,module,Magento_Authorizenet
+"There was a payment authorization error.",出現了一個付款授權錯誤。,module,Magento_Authorizenet
+"Please enter a transaction ID to authorize this payment.",請輸入要授權付款的交易編號。,module,Magento_Authorizenet
+"Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.","發生錯誤 ︰ 已付的金額與訂單額不符。請更正此錯誤，然後重試。",module,Magento_Authorizenet
+"Transaction %1 has been approved. Amount %2. Transaction status is ""%3""","交易%1已獲得批准。 金額%2。 交易狀態為“%3”",module,Magento_Authorizenet
+"Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.","交易%1無效/被拒絕。 交易狀態為“%2”。 金額%3。",module,Magento_Authorizenet
+"Authorize Only",僅授權,module,Magento_Authorizenet
+"Authorize and Capture",授權和提取,module,Magento_Authorizenet
+"Credit Card Type",信用卡類型,module,Magento_Authorizenet
+"Please Select",請選擇,module,Magento_Authorizenet
+"Credit Card Number",信用卡卡號,module,Magento_Authorizenet
+"Expiration Date",到期日期,module,Magento_Authorizenet
+"Card Verification Number",信用卡驗證號碼,module,Magento_Authorizenet
+"Fraud Detection",欺詐檢測,module,Magento_Authorizenet
+"FDS Filter Action","FDS 篩選器操作",module,Magento_Authorizenet
+"AVS Response",AVS地址驗證服務,module,Magento_Authorizenet
+"Card Code Response",卡代碼回應,module,Magento_Authorizenet
+"CAVV Response","CAVV 回應",module,Magento_Authorizenet
+"Fraud Filters",欺詐行為篩檢程式,module,Magento_Authorizenet
+"Place Order",確認訂單,module,Magento_Authorizenet
+"Sorry, but something went wrong. Please contact the seller.","對不起，出了問題。 請聯繫賣家。",module,Magento_Authorizenet
+"Authorize.net Direct Post","Authorize.net 直接付款",module,Magento_Authorizenet
+Enabled,啟用,module,Magento_Authorizenet
+"Payment Action",付款操作,module,Magento_Authorizenet
+Title,標題,module,Magento_Authorizenet
+"API Login ID","API 的登入識別碼",module,Magento_Authorizenet
+"Transaction Key",交易金鑰,module,Magento_Authorizenet
+"Merchant MD5","商戶 MD5",module,Magento_Authorizenet
+"New Order Status",新訂單狀態,module,Magento_Authorizenet
+"Test Mode",測試模式,module,Magento_Authorizenet
+"Gateway URL",閘道網址,module,Magento_Authorizenet
+"Transaction Details URL","交易明細 URL",module,Magento_Authorizenet
+"Accepted Currency",接受的貨幣,module,Magento_Authorizenet
+Debug,除錯,module,Magento_Authorizenet
+"Email Customer",電郵客戶,module,Magento_Authorizenet
+"Merchant's Email",商戶的電子郵件,module,Magento_Authorizenet
+"Credit Card Types",信用卡類型,module,Magento_Authorizenet
+"Credit Card Verification",信用卡驗證,module,Magento_Authorizenet
+"Payment from Applicable Countries",適用國家的付款,module,Magento_Authorizenet
+"Payment from Specific Countries",特定國家的付款,module,Magento_Authorizenet
+"Minimum Order Total",最小訂單總數,module,Magento_Authorizenet
+"Maximum Order Total",最大訂單總計,module,Magento_Authorizenet
+"Sort Order",訂單排序,module,Magento_Authorizenet
+Close,關閉,module,Magento_B2b
+options,選項,module,Magento_B2b
+"Select all",全部選取,module,Magento_B2b
+"Deselect all",取消全選,module,Magento_B2b
+Cancel,取消,module,Magento_B2b
+Done,完成,module,Magento_B2b
+"Please Select",請選擇,module,Magento_B2b
+"%s of %s selected","%s %s 已選中",module,Magento_B2b
+"B2B Features","B2B 特點",module,Magento_B2b
+"Invalid Form Key. Please refresh the page.",無效表單金鑰，請刷新頁面。,module,Magento_Backend
+"You entered an invalid Secret Key. Please refresh the page.",輸入的金鑰不正確，請刷新此頁面。,module,Magento_Backend
+"Cache Storage Management",緩存記憶管理,module,Magento_Backend
+"Flush Magento Cache",清空Magento緩存,module,Magento_Backend
+"The cache storage may contain additional data. Are you sure that you want to flush it?",緩存記憶可能包含其他資料，確定清空？,module,Magento_Backend
+"Flush Cache Storage",清空緩存記憶,module,Magento_Backend
+Invalidated,無效,module,Magento_Backend
+Orders,訂單,module,Magento_Backend
+Amounts,金額,module,Magento_Backend
+Bestsellers,暢銷產品,module,Magento_Backend
+"Most Viewed Products",最受歡迎的產品,module,Magento_Backend
+"New Customers",新客戶,module,Magento_Backend
+Customers,客戶,module,Magento_Backend
+Customer,客戶,module,Magento_Backend
+Guest,訪客,module,Magento_Backend
+Items,項目,module,Magento_Backend
+Total,合計,module,Magento_Backend
+"Lifetime Sales",累計銷售,module,Magento_Backend
+"Average Order",平均訂單量,module,Magento_Backend
+Average,平均值,module,Magento_Backend
+Product,產品,module,Magento_Backend
+Price,價格,module,Magento_Backend
+Quantity,數量,module,Magento_Backend
+Views,點擊率,module,Magento_Backend
+Revenue,收入,module,Magento_Backend
+Tax,稅金,module,Magento_Backend
+Shipping,物流,module,Magento_Backend
+"Images (.gif, .jpg, .png)",圖片（.gif、.jpg、.png）,module,Magento_Backend
+"Media (.avi, .flv, .swf)",媒體（.avi、.flv，.swf）,module,Magento_Backend
+"All Files",所有檔案,module,Magento_Backend
+"Reset to Default",重設為預設值,module,Magento_Backend
+"All Store Views",所有店面,module,Magento_Backend
+"What is this?",這是怎麽？,module,Magento_Backend
+"Save Account",儲存帳戶,module,Magento_Backend
+"My Account",我的帳戶,module,Magento_Backend
+"Account Information",帳戶資訊,module,Magento_Backend
+"User Name",使用者名稱,module,Magento_Backend
+"First Name",名字,module,Magento_Backend
+"Last Name",姓氏,module,Magento_Backend
+Email,電郵,module,Magento_Backend
+"User Email",使用者電郵,module,Magento_Backend
+"New Password",新密碼,module,Magento_Backend
+"Password Confirmation",密碼確認,module,Magento_Backend
+"Interface Locale",介面地區設定,module,Magento_Backend
+"Current User Identity Verification",當前使用者身份驗證,module,Magento_Backend
+"Your Password",您的密碼,module,Magento_Backend
+"Save Cache Settings",儲存緩存設定,module,Magento_Backend
+"Catalog Rewrites",目錄重寫,module,Magento_Backend
+Refresh,重新整理,module,Magento_Backend
+"Images Cache",圖片緩存,module,Magento_Backend
+Clear,清除,module,Magento_Backend
+"Description of Operation",操作說明,module,Magento_AsynchronousOperations
+Summary,概要,module,Magento_AsynchronousOperations
+"Start Time",開始時間,module,Magento_AsynchronousOperations
+"Items to Retry",重試項目,module,Magento_AsynchronousOperations
+"To retry, select the items and click “Retry”.","要重試，請選中該項目，按一下""重試""。",module,Magento_AsynchronousOperations
+"Items That Can’t Be Updated.",不能更新的項目。,module,Magento_AsynchronousOperations
+ID,編號,module,Magento_AsynchronousOperations
+Status,狀態,module,Magento_AsynchronousOperations
+"Meta Information",元資訊,module,Magento_AsynchronousOperations
+Error,錯誤,module,Magento_AsynchronousOperations
+"Dismiss All Completed Tasks",關閉所有已完成的任務,module,Magento_AsynchronousOperations
+"Action Details - #",操作詳細資訊-#,module,Magento_AsynchronousOperations
+"Number of Records Affected",受影響的記錄數目,module,Magento_AsynchronousOperations
+"Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.",編譯允許的資源列表時出錯。您可以在例外日誌中找到更多內容。,module,Magento_Authorization
+"You created the order.",您建立了訂單。,module,Magento_Authorizenet
+"Order saving error: %1",訂單保存錯誤：%1,module,Magento_Authorizenet
+"Please choose a payment method.",請選擇您的付款方式。,module,Magento_Authorizenet
+"We can't process your order right now. Please try again later.",我們現在無法處理您的訂單。請稍後再試。,module,Magento_Authorizenet
+"Search Index",搜尋索引,module,Magento_Backend
+Rebuild,重建,module,Magento_Backend
+"Inventory Stock Status",庫存狀態,module,Magento_Backend
+"Rebuild Catalog Index",重建產品索引,module,Magento_Backend
+"Rebuild Flat Catalog Category",重建平面類別,module,Magento_Backend
+"Rebuild Flat Catalog Product",重建平面產品,module,Magento_Backend
+"Cache Control",緩存控制,module,Magento_Backend
+"All Cache",所有緩存,module,Magento_Backend
+"No change",沒有變更,module,Magento_Backend
+Disable,停用,module,Magento_Backend
+Enable,啟用,module,Magento_Backend
+"Add Design Change",新增設計修正,module,Magento_Backend
+Back,返回,module,Magento_Backend
+Delete,刪除,module,Magento_Backend
+"Are you sure?",您確定嗎？,module,Magento_Backend
+Save,儲存,module,Magento_Backend
+"Edit Design Change",編輯設計修正,module,Magento_Backend
+"New Store Design Change",新店設計修正,module,Magento_Backend
+"General Settings",一般設定,module,Magento_Backend
+Store,商店,module,Magento_Backend
+"-- Please Select --","-- 請選擇 --",module,Magento_Backend
+"Custom Design",自訂設計,module,Magento_Backend
+"Date From",從日期,module,Magento_Backend
+"Date To",到日期,module,Magento_Backend
+"Design Change",設計修正,module,Magento_Backend
+General,一般,module,Magento_Backend
+Cancel,取消,module,Magento_Backend
+"Delete %1 '%2'","刪除 %1 '%2'",module,Magento_Backend
+"Delete %1","刪除 %1",module,Magento_Backend
+"Block Information",區塊資訊,module,Magento_Backend
+"Backup Options",備份選項,module,Magento_Backend
+No,否,module,Magento_Backend
+Yes,是,module,Magento_Backend
+"Create DB Backup",創建資料庫備份,module,Magento_Backend
+"Delete Store",刪除商店,module,Magento_Backend
+"Delete Web Site",刪除網站,module,Magento_Backend
+"Save Web Site",儲存網站,module,Magento_Backend
+"Save Store",儲存商店,module,Magento_Backend
+"Save Store View",儲存店面,module,Magento_Backend
+"Delete Store View",刪除店面,module,Magento_Backend
+"Edit Web Site",編輯網站,module,Magento_Backend
+"New Web Site",新增網站,module,Magento_Backend
+"Edit Store",編輯商店,module,Magento_Backend
+"New Store",新增商店,module,Magento_Backend
+"Edit Store View",編輯店面,module,Magento_Backend
+"New Store View",新增店面,module,Magento_Backend
+"Store Information",商店資訊,module,Magento_Backend
+"Web Site",網站,module,Magento_Backend
+Name,名稱,module,Magento_Backend
+Code,代號,module,Magento_Backend
+"Root Category",根類別,module,Magento_Backend
+"Default Store View",預設店面,module,Magento_Backend
+"Store View Information",店面資訊,module,Magento_Backend
+Status,狀態,module,Magento_Backend
+Disabled,停用,module,Magento_Backend
+Enabled,啟用,module,Magento_Backend
+"Sort Order",排序,module,Magento_Backend
+"Web Site Information",網站資訊,module,Magento_Backend
+"Default Store",預設商店,module,Magento_Backend
+"Set as Default",設為預設,module,Magento_Backend
+Stores,商店,module,Magento_Backend
+"Create Website",創建網站,module,Magento_Backend
+"Create Store",創建商店,module,Magento_Backend
+"Create Store View",創建店面,module,Magento_Backend
+Home,首頁,module,Magento_Backend
+Reset,重設,module,Magento_Backend
+"Are you sure you want to do this?",你確定要這樣做？,module,Magento_Backend
+label,標籤,module,Magento_Backend
+"Add New Image",新增圖片,module,Magento_Backend
+"Export block for grid %1 is not defined","未定義網格 %1 的匯出區塊",module,Magento_Backend
+"Reset Filter",重設篩選,module,Magento_Backend
+Search,搜尋,module,Magento_Backend
+Any,任何,module,Magento_Backend
+"All Countries",所有國家,module,Magento_Backend
+From,由,module,Magento_Backend
+To,至,module,Magento_Backend
+"Date selector",選擇日期,module,Magento_Backend
+"[ deleted ]",[已刪除],module,Magento_Backend
+"Select All",全選,module,Magento_Backend
+[deleted],[已刪除],module,Magento_Backend
+"We couldn't find any records.",我們找不到任何記錄。,module,Magento_Backend
+"Add New",新增,module,Magento_Backend
+"Invalid export type supplied for grid export block",網格匯出區塊指定了無效的匯出類型,module,Magento_Backend
+Export,匯出,module,Magento_Backend
+"Please correct the column format and try again.",請更正欄位格式然後再試。,module,Magento_Backend
+Submit,提交,module,Magento_Backend
+"Unknown block type",未知的區塊類型,module,Magento_Backend
+"Please correct the tab configuration and try again. Tab Id should be not empty",請更正分頁配置然後重試，分頁編號不能為空。,module,Magento_Backend
+"Please correct the tab configuration and try again.",請更正分頁配置然後重試。,module,Magento_Backend
+"You have logged out.",您已登出。,module,Magento_Backend
+"The image cache was cleaned.",已清空圖像緩存。,module,Magento_Backend
+"An error occurred while clearing the image cache.",清空圖像緩存時出錯。,module,Magento_Backend
+"The JavaScript/CSS cache has been cleaned.",已清理JavaScript/CSS緩存。,module,Magento_Backend
+"An error occurred while clearing the JavaScript/CSS cache.",清理JavaScript/CSS緩存時出錯。,module,Magento_Backend
+"The static files cache has been cleaned.",已清理靜態檔緩存。,module,Magento_Backend
+"You flushed the cache storage.",你已清空緩存記憶。,module,Magento_Backend
+"The Magento cache storage has been flushed.",已清空Magento緩存記憶。,module,Magento_Backend
+"Cache Management",緩存管理,module,Magento_Backend
+"You can't change status of cache type(s) in production mode",在生產環境中不能更改緩存類型,module,Magento_Backend
+"%1 cache type(s) disabled.","%1 種緩存類型已被停用。",module,Magento_Backend
+"An error occurred while disabling cache.",停用緩存時出錯。,module,Magento_Backend
+"%1 cache type(s) enabled.","已啟用 %1 個緩存類型。",module,Magento_Backend
+"An error occurred while enabling cache.",啟用緩存時出錯。,module,Magento_Backend
+"%1 cache type(s) refreshed.","已刷新 %1 個緩存類型。",module,Magento_Backend
+"An error occurred while refreshing cache.",刷新緩存時出錯。,module,Magento_Backend
+Dashboard,總覽,module,Magento_Backend
+"We updated lifetime statistic.",我們更新了壽命統計。,module,Magento_Backend
+"We can't refresh lifetime statistics.",我們不能更新終生統計。,module,Magento_Backend
+"invalid request",無效的請求,module,Magento_Backend
+"see error log for details",詳請參閱錯誤日誌,module,Magento_Backend
+"Service unavailable: %1","服務不可用︰ %1",module,Magento_Backend
+Error,錯誤,module,Magento_Backend
+"Access Denied.",存取被拒。,module,Magento_Backend
+"You need more permissions to do this.",你需要更多的權限權來執行此操作。,module,Magento_Backend
+"No search modules were registered",沒有註冊搜索模塊,module,Magento_Backend
+"Please make sure that all global admin search modules are installed and activated.",請確保所有的全域管理員搜索模組已安裝並啟動。,module,Magento_Backend
+"You saved the account.",你已儲存此帳戶。,module,Magento_Backend
+"An error occurred while saving account.",儲存帳戶時出錯。,module,Magento_Backend
+"You deleted the design change.",你已刪除此設計編輯。,module,Magento_Backend
+"You can't delete the design change.",您不能刪除此設計編輯。,module,Magento_Backend
+"Store Design",商店設計,module,Magento_Backend
+"Edit Store Design Change",儲存商店設計編輯,module,Magento_Backend
+"You saved the design change.",你已儲存設計編輯。,module,Magento_Backend
+System,系統,module,Magento_Backend
+"Manage Stores",管理商店,module,Magento_Backend
+"The database was backed up.",資料庫已備份。,module,Magento_Backend
+"We can't create a backup right now. Please try again later.",我們現在不能建立一個備份。請稍後再試。,module,Magento_Backend
+"Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.","刪除%1並不會刪除與%1相關聯的信息（例如類別，產品等），但%1將無法恢復。 建議您在刪除%1之前創建資料庫備份。",module,Magento_Backend
+"Something went wrong. Please try again.",出了錯。請再試一次。,module,Magento_Backend
+"This store cannot be deleted.",不能刪除此商店。,module,Magento_Backend
+"You deleted the store.",你已刪除此商店。,module,Magento_Backend
+"Unable to delete the store. Please try again later.",無法刪除商店，請稍後再試。,module,Magento_Backend
+"This store view cannot be deleted.",不能刪除此店面。,module,Magento_Backend
+"Store View",店面,module,Magento_Backend
+"You deleted the store view.",你已刪除此店面。,module,Magento_Backend
+"Unable to delete the store view. Please try again later.",無法刪除店面，請稍後再試。,module,Magento_Backend
+"This website cannot be deleted.",不能刪除此網站。,module,Magento_Backend
+"You deleted the website.",你已刪除此網站。,module,Magento_Backend
+"Unable to delete the website. Please try again later.",無法刪除網站，請稍後再試。,module,Magento_Backend
+"The website does not exist.",網站不存在。,module,Magento_Backend
+"Before modifying the website code please make sure it is not used in index.php.","修改網站代碼前請確保它不用在 index.php 中。",module,Magento_Backend
+"The store does not exist",商店不存在,module,Magento_Backend
+"Store view doesn't exist",店面不存在,module,Magento_Backend
+"Before modifying the store view code please make sure it is not used in index.php.","修改店面代碼前請確保它不用在 index.php 中。",module,Magento_Backend
+New,新增,module,Magento_Backend
+"All Stores",所有商店,module,Magento_Backend
+"You saved the website.",你已儲存網站。,module,Magento_Backend
+"The default store cannot be disabled",預設商店不能被停用,module,Magento_Backend
+"You saved the store view.",您已儲存店面。,module,Magento_Backend
+"An inactive store view cannot be saved as default store view",處於非活動狀態店面不能保存為預設店面,module,Magento_Backend
+"You saved the store.",你已儲存了商店。,module,Magento_Backend
+"Something went wrong while saving. Please review the error log.",儲存時出錯，請查看錯誤日誌。,module,Magento_Backend
+"Last 24 Hours","最近 24 小時",module,Magento_Backend
+"Last 7 Days","最近 7 天",module,Magento_Backend
+"Current Month",這個月,module,Magento_Backend
+YTD,本年度,module,Magento_Backend
+2YTD,兩年度,module,Magento_Backend
+"Authentication storage is incorrect.",不正確的認證記憶。,module,Magento_Backend
+Order,訂單,module,Magento_Backend
+"Order #%1","訂單 #%1",module,Magento_Backend
+"Save &amp; Continue","儲存及繼續",module,Magento_Backend
+"Save &amp; Close","儲存及關閉",module,Magento_Backend
+"Save &amp; New","儲存及新增",module,Magento_Backend
+Edit,修改,module,Magento_Backend
+"Welcome, please sign in",歡迎光臨，請先登錄,module,Magento_Backend
+Username,帳號,module,Magento_Backend
+"user name",使用者名稱,module,Magento_Backend
+Password,密碼,module,Magento_Backend
+password,密碼,module,Magento_Backend
+"Sign in",登入,module,Magento_Backend
+"Select Range:",選擇範圍︰,module,Magento_Backend
+"No Data Found",找不到資料,module,Magento_Backend
+"Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","圖表已停用。若要啟用圖表，請按 <a href=""%1"">這裡</a>。",module,Magento_Backend
+"Last Orders",最新訂單,module,Magento_Backend
+"Last Search Terms",最新搜尋,module,Magento_Backend
+"Top Search Terms",熱門搜尋,module,Magento_Backend
+"There are no search keywords.",沒有搜尋關鍵字。,module,Magento_Backend
+"View Statistics For:",查看統計資料︰,module,Magento_Backend
+"All Websites",所有網站,module,Magento_Backend
+"Reload Data",重新載入資料,module,Magento_Backend
+"Browse Files...",瀏覽檔案⋯,module,Magento_Backend
+"Copyright &copy; %1 Magento Commerce Inc. All rights reserved.","版權所有 &copy; %1 Magento Commerce Inc. 保留所有權利。",module,Magento_Backend
+"ver. %1","版本 %1",module,Magento_Backend
+"Magento Admin Panel","Magento 管理面板",module,Magento_Backend
+"Account Setting",帳戶設定,module,Magento_Backend
+"Customer View",客戶介面,module,Magento_Backend
+"Sign Out",登出,module,Magento_Backend
+"About the calendar",關於日曆,module,Magento_Backend
+Close,關閉,module,Magento_Backend
+"Go Today",今天去,module,Magento_Backend
+Previous,上一頁,module,Magento_Backend
+Next,下一頁,module,Magento_Backend
+WK,WK,module,Magento_Backend
+Time,時間,module,Magento_Backend
+Hour,小時,module,Magento_Backend
+Minute,分,module,Magento_Backend
+"JavaScript may be disabled in your browser.","您的瀏覽器可能已停用 JavaScript。",module,Magento_Backend
+"To use this website you must first enable JavaScript in your browser.","要使用本網站必須首先在您的瀏覽器啟用 JavaScript。",module,Magento_Backend
+"This is only a demo store. You can browse and place orders, but nothing will be processed.",這是只是一個演示的商店。您可以瀏覽並下訂單，但將不被處理。,module,Magento_Backend
+"Store View:",店面：,module,Magento_Backend
+"Stores Configuration",商店設置,module,Magento_Backend
+"Please confirm scope switching. All data that hasn't been saved will be lost.",請確認範圍切換。所有未保存的資料將都會丟失。,module,Magento_Backend
+"Additional Cache Management",額外的緩存管理,module,Magento_Backend
+"Flush Catalog Images Cache",清空產品圖片緩存,module,Magento_Backend
+"Pregenerated product images files",預先生成的產品圖片,module,Magento_Backend
+"Flush JavaScript/CSS Cache","清空 JavaScript/CSS 緩存",module,Magento_Backend
+"Themes JavaScript and CSS files combined to one file","主題 JavaScript 和 CSS 檔合併到一個檔案。",module,Magento_Backend
+"Flush Static Files Cache",沖洗靜態檔案快取,module,Magento_Backend
+"Preprocessed view files and static files",預先處理的視圖檔和靜態檔,module,Magento_Backend
+Catalog,目錄,module,Magento_Backend
+JavaScript/CSS,"JavaScript 和 CSS",module,Magento_Backend
+"JavaScript/CSS Cache","JavaScript 和 CSS 緩存",module,Magento_Backend
+"No records found.",找不到記錄。,module,Magento_Backend
+Images,圖片,module,Magento_Backend
+"Big Image",大圖像,module,Magento_Backend
+Thumbnail,縮圖,module,Magento_Backend
+"Additional Settings",附加設置,module,Magento_Backend
+"records found",找到的記錄,module,Magento_Backend
+selected,已選的,module,Magento_Backend
+"per page",每頁,module,Magento_Backend
+"Previous page",上一頁,module,Magento_Backend
+"Next page",下一頁,module,Magento_Backend
+"Export to:",匯出至,module,Magento_Backend
+Actions,操作,module,Magento_Backend
+"Mass Actions",大規模的操作,module,Magento_Backend
+"Unselect All",全部取消選擇,module,Magento_Backend
+"Select Visible",選擇可見,module,Magento_Backend
+"Unselect Visible",取消選擇可見,module,Magento_Backend
+"Changes have been made to this section that have not been saved.",對本節進行的修改尚未保存。,module,Magento_Backend
+"This tab contains invalid data. Please resolve this before saving.","此選項卡包含無效數據。 保存前請解決此問題。",module,Magento_Backend
+"The information in this tab has been changed.",此選項卡中的資訊已更改。,module,Magento_Backend
+Loading...,載入中...,module,Magento_Backend
+"We could not detect a size.",我們無法檢測到大小。,module,Magento_Backend
+"Allow everything",全部允許,module,Magento_Backend
+"Magento Admin","Magento 管理員",module,Magento_Backend
+"Global Search",搜尋全部,module,Magento_Backend
+Marketing,行銷,module,Magento_Backend
+"SEO & Search","SEO 與搜索",module,Magento_Backend
+"User Content",使用者內容,module,Magento_Backend
+Content,內容,module,Magento_Backend
+Elements,元素,module,Magento_Backend
+Design,設計,module,Magento_Backend
+Schedule,日程表,module,Magento_Backend
+Settings,設定,module,Magento_Backend
+Attributes,屬性,module,Magento_Backend
+"Other Settings",其他設定,module,Magento_Backend
+"Data Transfer",檔案傳輸,module,Magento_Backend
+"Connect Manager",連線管理員,module,Magento_Backend
+"Package Extensions",擴充包,module,Magento_Backend
+Tools,工具,module,Magento_Backend
+"Web Setup Wizard",網路安裝精靈,module,Magento_Backend
+Currency,貨幣,module,Magento_Backend
+Communications,通信,module,Magento_Backend
+Services,服務,module,Magento_Backend
+Advanced,進階,module,Magento_Backend
+"Disable Modules Output",停用模組輸出,module,Magento_Backend
+"Store Email Addresses",存儲電郵地址,module,Magento_Backend
+"Custom Email 1","自訂電郵 1",module,Magento_Backend
+"Sender Email",寄件者電郵,module,Magento_Backend
+"Sender Name",寄件者名稱,module,Magento_Backend
+"Custom Email 2","自訂電郵 2",module,Magento_Backend
+"General Contact",一般聯絡人,module,Magento_Backend
+"Sales Representative",銷售代表,module,Magento_Backend
+"Customer Support",客戶支援,module,Magento_Backend
+Developer,開發人員,module,Magento_Backend
+Debug,偵錯,module,Magento_Backend
+"Enabled Template Path Hints for Storefront",為店面啟用範本路徑提示,module,Magento_Backend
+"of %1",%1的,module,Magento_Backend
+"Enabled Template Path Hints for Admin",為管理面版啟用範本路徑提示,module,Magento_Backend
+"Template Settings",範本設定,module,Magento_Backend
+"Allow Symlinks",允許符號連結,module,Magento_Backend
+"Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.",警告！此功能包含潛在安全風險，生產環境不建議啟用。,module,Magento_Backend
+"Minify Html",HTMI 簡化,module,Magento_Backend
+"Minification is not applied in developer mode.",開發模式不可簡化。,module,Magento_Backend
+"Translate Inline",內嵌翻譯,module,Magento_Backend
+"Enabled for Storefront",於店面啟用,module,Magento_Backend
+"Enabled for Admin",於管理面版啟用,module,Magento_Backend
+"Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.",店面和管理面版的內嵌翻譯中，應該停用翻譯、區塊和其它輸出緩存。,module,Magento_Backend
+"JavaScript Settings","JavaScript 設定",module,Magento_Backend
+"Merge JavaScript Files","合併 JavaScript 檔案",module,Magento_Backend
+"Enable JavaScript Bundling","啟用 JavaScript 捆綁",module,Magento_Backend
+"Minify JavaScript Files","簡化 JavaScript 檔案",module,Magento_Backend
+"CSS Settings","CSS 設定",module,Magento_Backend
+"Merge CSS Files","合併 CSS 檔案",module,Magento_Backend
+"Minify CSS Files","簡化 CSS 檔案",module,Magento_Backend
+"Image Processing Settings",圖像處理設定,module,Magento_Backend
+"Image Adapter",圖像配接器,module,Magento_Backend
+"Static Files Settings",靜態檔設定,module,Magento_Backend
+"Sign Static Files",靜態檔案電子簽名,module,Magento_Backend
+"Country Options",國家選項,module,Magento_Backend
+"Allow Countries",允許國家,module,Magento_Backend
+"Default Country",預設國家,module,Magento_Backend
+"European Union Countries",歐洲聯盟國家,module,Magento_Backend
+"Top destinations",熱門目的地,module,Magento_Backend
+"Locale Options",地區設定選項,module,Magento_Backend
+Timezone,時區,module,Magento_Backend
+Locale,語言,module,Magento_Backend
+"First Day of Week",一周的第一天,module,Magento_Backend
+"Weekend Days",週末天,module,Magento_Backend
+"Store Name",商店名稱,module,Magento_Backend
+"Store Phone Number",商店電話號碼,module,Magento_Backend
+"Store Hours of Operation",商店上班時間,module,Magento_Backend
+Country,國家,module,Magento_Backend
+Region/State,地區／國家,module,Magento_Backend
+"ZIP/Postal Code",郵遞區號,module,Magento_Backend
+City,城市,module,Magento_Backend
+"Street Address",首行地址,module,Magento_Backend
+"Street Address Line 2",次行地址,module,Magento_Backend
+"VAT Number",增值稅號,module,Magento_Backend
+"Single-Store Mode",獨立商店模式,module,Magento_Backend
+"Enable Single-Store Mode",啟用獨立商店模式,module,Magento_Backend
+"This setting will not be taken into account if system has more than one store view.",如系統有多個店面，此設定將被略過。,module,Magento_Backend
+"Mail Sending Settings",郵件發送設定,module,Magento_Backend
+"Disable Email Communications",停用電郵通訊,module,Magento_Backend
+Host,主機,module,Magento_Backend
+"Port (25)",連接埠（25）,module,Magento_Backend
+"Set Return-Path",設定返回路徑,module,Magento_Backend
+"Return-Path Email",返回路徑電郵,module,Magento_Backend
+Admin,管理員,module,Magento_Backend
+"Admin User Emails",管理員電郵,module,Magento_Backend
+"Forgot Password Email Template",忘記密碼電郵範本,module,Magento_Backend
+"Email template chosen based on theme fallback when ""Default"" option is selected.",選擇「預設」後，電郵範本將根據佈景主題順序選擇。,module,Magento_Backend
+"Forgot and Reset Email Sender",忘記及重設密碼寄件者,module,Magento_Backend
+"Startup Page",起始頁面,module,Magento_Backend
+"Admin Base URL",管理面版基礎網址,module,Magento_Backend
+"Use Custom Admin URL",使用自訂管理面版網址,module,Magento_Backend
+"Custom Admin URL",自訂管理面版網址,module,Magento_Backend
+"Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/","請確保基礎網址是以 '/' 斜線結尾，例如 http://yourdomain/magento/",module,Magento_Backend
+"Use Custom Admin Path",使用自訂管理路徑,module,Magento_Backend
+"Custom Admin Path",自訂管理路徑,module,Magento_Backend
+"You will have to sign in after you save your custom admin path.",保存您的自定義管理路徑後，您必須重新登錄。,module,Magento_Backend
+Security,安全性,module,Magento_Backend
+"Recovery Link Expiration Period (hours)",恢復鏈接到期時間（小時）,module,Magento_Backend
+"Please enter a number 1 or greater in this field.",請在此欄位中輸入1或更大的數字。,module,Magento_Backend
+"Add Secret Key to URLs","將金鑰添加到 Url",module,Magento_Backend
+"Login is Case Sensitive",登錄名是區分大小寫,module,Magento_Backend
+"Admin Session Lifetime (seconds)","管理會話存留期 （秒）",module,Magento_Backend
+"Please enter at least 60 and at most 31536000 (one year).","請輸入至最少 60 和 最多 31536000 （一年）。",module,Magento_Backend
+"Enable Charts",啟用圖表,module,Magento_Backend
+Web,網頁,module,Magento_Backend
+"Url Options","Url 選項",module,Magento_Backend
+"Add Store Code to Urls","將店舖代碼添加到 Url",module,Magento_Backend
+"Auto-redirect to Base URL",自動導向至基礎網址,module,Magento_Backend
+"Search Engine Optimization",搜尋引擎優化,module,Magento_Backend
+"Use Web Server Rewrites",使用網站伺服器重寫,module,Magento_Backend
+"Base URLs",基礎網址,module,Magento_Backend
+"Base URL",基礎網址,module,Magento_Backend
+"Specify URL or {{base_url}} placeholder.","指定網址或 {{base_url}} 替代字。",module,Magento_Backend
+"Base Link URL",基礎連結網址,module,Magento_Backend
+"Base URL for Static View Files",靜態檔案基礎網址,module,Magento_Backend
+"May be empty or start with {{unsecure_base_url}} placeholder.","可留空或以 {{unsecure_base_url}} 開始的替代字。",module,Magento_Backend
+"Base URL for User Media Files",媒體檔案基礎網址,module,Magento_Backend
+"Base URLs (Secure)",基礎網址（加密）,module,Magento_Backend
+"Secure Base URL",加密的基礎網址,module,Magento_Backend
+"Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","指定網址、{{base_url}} 或 {{unsecure_base_url}} 的替代字。",module,Magento_Backend
+"Secure Base Link URL",加密的基礎連結網址,module,Magento_Backend
+"Secure Base URL for Static View Files",加密的靜態檔案基礎網址,module,Magento_Backend
+"May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","可留空或以 {{secure_base_url}} 或 {{unsecure_base_url}} 開始的替代字。",module,Magento_Backend
+"Secure Base URL for User Media Files",加密的使用者媒體檔案基礎網址,module,Magento_Backend
+"Use Secure URLs on Storefront",在店面使用加密網址,module,Magento_Backend
+"Use Secure URLs in Admin",在管理面版使用加密網址,module,Magento_Backend
+"Enable HTTP Strict Transport Security (HSTS)","啟用 HTTP 強制安全傳輸技術 （HSTS）",module,Magento_Backend
+"Upgrade Insecure Requests",升級非加密的請求,module,Magento_Backend
+"Offloader header",缷載器標頭,module,Magento_Backend
+"Default Pages",預設頁面,module,Magento_Backend
+"Default Web URL",預設網址,module,Magento_Backend
+"Default No-route URL",預設無路徑網址,module,Magento_Backend
+"Session Validation Settings",登錄環節驗證設定,module,Magento_Backend
+"Validate REMOTE_ADDR","驗證 REMOTE_ADDR",module,Magento_Backend
+"Validate HTTP_VIA","驗證 HTTP_VIA",module,Magento_Backend
+"Validate HTTP_X_FORWARDED_FOR","驗證 HTTP_X_FORWARDED_FOR",module,Magento_Backend
+"Validate HTTP_USER_AGENT","驗證 HTTP_USER_AGENT",module,Magento_Backend
+"Use SID on Storefront","於店面使用 SID",module,Magento_Backend
+"Allows customers to stay logged in when switching between different stores.",允許客戶切換商店時保持登入。,module,Magento_Backend
+"Cache Type",緩存類型,module,Magento_Backend
+Description,描述,module,Magento_Backend
+Tags,標籤,module,Magento_Backend
+"<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading"">404 錯誤</h1><p>找不到頁面。</p>",module,Magento_Backend
+"Community Edition",社區版,module,Magento_Backend
+"Default Theme",預設主題,module,Magento_Backend
+"Applied Theme",套用的主題,module,Magento_Backend
+"Design Rule",設計規則,module,Magento_Backend
+"User Agent Rules",使用者代理規則,module,Magento_Backend
+Pagination,分頁,module,Magento_Backend
+"How many links to display at once.",一次顯示多少連結。,module,Magento_Backend
+"Pagination Frame",分頁框架,module,Magento_Backend
+"If current frame position does not cover utmost pages, it renders the link to current position plus/minus this value.",如當前頁數未能包含頂頁／底頁，連結將顯示為當前位置加／減此值。,module,Magento_Backend
+"Pagination Frame Skip",跳頁數量,module,Magento_Backend
+"Alternative text for the previous pages link in the pagination menu. If empty, the default arrow image is used.",在分頁功能表的上一個頁連結中，如果替代文字留空，將使用默認的箭頭圖像。,module,Magento_Backend
+"Anchor Text for Previous",上頁的連結文字,module,Magento_Backend
+"Alternative text for the next pages link in the pagination menu. If empty, default arrow image is used.",在分頁功能表的下一個頁連結中，如果替代文字留空，將使用默認的箭頭圖像。,module,Magento_Backend
+"Anchor Text for Next",下一張的錨文本,module,Magento_Backend
+"Theme Name",主題名稱,module,Magento_Backend
+"System Backup",系統備份,module,Magento_Backup
+"Database and Media Backup",資料庫和媒體備份,module,Magento_Backup
+"Database Backup",資料庫備份,module,Magento_Backup
+"The archive can be uncompressed with <a href=""%1"">%2</a> on Windows systems.","可以在Windows系統上使用<a href=""%1"">％2 </a>解壓縮歸檔。",module,Magento_Backup
+"You need more permissions to activate maintenance mode right now.",你現在需要更多的權限來啟動維護模式。,module,Magento_Backup
+"To create the backup, please deselect ""Put store into maintenance mode"" or update your permissions.","若要創建備份，請取消選擇""置於維護模式存儲""，或更新您的權限。",module,Magento_Backup
+"Something went wrong while putting your store into maintenance mode.",將商店置於維護模式時出錯。,module,Magento_Backup
+"You need more free space to create a backup.",你需要更多的可用空間來創建備份。,module,Magento_Backup
+"You need more permissions to create a backup.",你需要更多的權限來創建一個備份。,module,Magento_Backup
+"We can't create the backup right now.",我們現在無法建立備份。,module,Magento_Backup
+Backups,備份,module,Magento_Backup
+System,系統,module,Magento_Backup
+Tools,工具,module,Magento_Backup
+Backup,備份,module,Magento_Backup
+"We can't delete one or more backups.",我們不能刪除一個或多個備份。,module,Magento_Backup
+failed,失敗,module,Magento_Backup
+successful,成功。,module,Magento_Backup
+"You deleted the selected backup(s).",刪除所選的備份。,module,Magento_Backup
+"Can't load snapshot archive",無法載入快照存檔,module,Magento_Backup
+"Please correct the password.",請更正密碼。,module,Magento_Backup
+"To complete the rollback, please deselect ""Put store into maintenance mode"" or update your permissions.",要完成回滾，請取消“將商店置於維護模式”或更新您的權限。,module,Magento_Backup
+"We can't find the backup file.",我們找不到備份檔案。,module,Magento_Backup
+"We can't connect to the FTP right now.","我們現在無法連接到 FTP。",module,Magento_Backup
+"Failed to validate FTP.","驗證 FTP 失敗。",module,Magento_Backup
+"You need more permissions to perform a rollback.",您需要更多權限才能執行回滾。,module,Magento_Backup
+"Failed to rollback.",無法回滾。,module,Magento_Backup
+Database,資料庫,module,Magento_Backup
+"Database and Media",資料庫和媒體,module,Magento_Backup
+"System (excluding Media)","系統 （不含媒體）",module,Magento_Backup
+"You created the system backup.",您創建了系統備份。,module,Magento_Backup
+"You created the system backup (excluding media).","你創建了系統備份 （不包括媒體）。",module,Magento_Backup
+"You created the database and media backup.",您創建了資料庫和媒體備份。,module,Magento_Backup
+"You created the database backup.",您創建了資料庫備份。,module,Magento_Backup
+"Please correct the order of creation for a new backup.",請更正新備份的創建順序。,module,Magento_Backup
+"The backup file does not exist.",備份檔案不存在。,module,Magento_Backup
+"The backup file path was not specified.",未指定備份文件路徑。,module,Magento_Backup
+"The backup file ""%1"" does not exist.","備份檔案""%1""不存在。",module,Magento_Backup
+"Sorry, but we cannot read from or write to backup file ""%1"".","抱歉，我們不能讀取或寫入備份文件""%1""。",module,Magento_Backup
+"The backup file handler was unspecified.",備份文件處理程序未指定。,module,Magento_Backup
+"Something went wrong while writing to the backup file ""%1"".",寫入備份文件“%1”時發生錯誤。,module,Magento_Backup
+"We can't save the Cron expression.","我們不能儲存 Cron 運算式。",module,Magento_Backup
+"Backup functionality is disabled","Backup functionality is disabled",module,Magento_Backup
+"You will lose any data created since the backup was made, including admin users, customers and orders.",您將丟失備份後創建的任何數據，包括管理員用戶，客戶和訂單。,module,Magento_Backup
+"Are you sure you want to continue?",你確定要繼續嗎？,module,Magento_Backup
+"This may take a few moments.",這可能需要幾分鐘。,module,Magento_Backup
+"Be sure your store is in maintenance mode during backup.",在備份期間，請確保您的商店處於維護模式。,module,Magento_Backup
+"Backup Name",備份名稱,module,Magento_Backup
+"Please use only letters (a-z or A-Z), numbers (0-9) or spaces in this field.","請在此欄位中使用字母 （a 到 z 或 A 到 Z），數位 (0-9) 或空格。",module,Magento_Backup
+"Maintenance mode",維護模式,module,Magento_Backup
+"Please put your store into maintenance mode during backup.",請在備份期間將您的商店置於維護模式。,module,Magento_Backup
+Exclude,排除,module,Magento_Backup
+"Exclude media folder from backup",從備份中排除媒體檔案夾,module,Magento_Backup
