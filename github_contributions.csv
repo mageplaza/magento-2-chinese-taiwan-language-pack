@@ -2,3 +2,252 @@ Mageplaza,Mageplaza
 "Privacy and Cookie Policy","私隱及曲奇政策",module,Magento_Cms
 "Contact Us","聯絡我們",module,Magento_Contact
 "Orders and Returns","訂單及退貨",module,Magento_Sales
+All,全部,module,Magento_AdminGws
+None,無,module,Magento_AdminGws
+"Allowed Scopes",允許的範圍,module,Magento_AdminGws
+"You need more permissions to apply some of the rule updates.",你需要更多的權限才能更新規則。,module,Magento_AdminGws
+"You need more permissions to access website ""%1"".","你需要更多權限訪問此網站""%1""。",module,Magento_AdminGws
+"Role Scopes",網站角色,module,Magento_AdminGws
+Custom,自訂,module,Magento_AdminGws
+"Read Details",詳細資料,module,Magento_AdminNotification
+"Mark as Read",已讀,module,Magento_AdminNotification
+"Are you sure?",是否確認?,module,Magento_AdminNotification
+Remove,移除,module,Magento_AdminNotification
+"Messages Inbox",收件匣訊息,module,Magento_AdminNotification
+"You have %1 new system messages","你有 %1 條新訊息",module,Magento_AdminNotification
+"You have %1 new system message","你有 %1 條新訊息",module,Magento_AdminNotification
+"Incoming Message",收到訊息,module,Magento_AdminNotification
+close,關閉,module,Magento_AdminNotification
+Notifications,通知,module,Magento_AdminNotification
+"The message has been marked as Read.",訊息已標記為已讀。,module,Magento_AdminNotification
+"We couldn't mark the notification as Read because of an error.",系統未能標記錯誤提示為已讀。,module,Magento_AdminNotification
+"Please select messages.",請選擇訊息。,module,Magento_AdminNotification
+"A total of %1 record(s) have been marked as Read.","共有 %1 條記錄已標記為已讀。",module,Magento_AdminNotification
+"Total of %1 record(s) have been removed.","共有 %1 條記錄已被刪除。",module,Magento_AdminNotification
+"We couldn't remove the messages because of an error.",發生錯誤，我們未能刪除訊息。,module,Magento_AdminNotification
+"The message has been removed.",該訊息已被刪除。,module,Magento_AdminNotification
+"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","已顯示所有最新的系統通知。 要清除通知，請重新整理網頁。",module,Magento_AdminNotification
+"1 Hour","1 小時",module,Magento_AdminNotification
+"2 Hours","2 小時",module,Magento_AdminNotification
+"6 Hours","6 小時",module,Magento_AdminNotification
+"12 Hours","12 小時",module,Magento_AdminNotification
+"24 Hours","24 小時",module,Magento_AdminNotification
+critical,關鍵,module,Magento_AdminNotification
+major,主要,module,Magento_AdminNotification
+minor,次要,module,Magento_AdminNotification
+notice,通知,module,Magento_AdminNotification
+"Wrong message type",錯誤訊息類型,module,Magento_AdminNotification
+"Wrong notification ID specified.","指定了錯誤的訊息 ID。",module,Magento_AdminNotification
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","在生產環境中不建議使用{{base_url}}作為加密／非加密的根網址，建議在Magento<a href=""%1"">設定</a>中更改為其他值。",module,Magento_AdminNotification
+"One or more of the Cache Types are invalidated: %1.","一個或多個緩存類型都將失效︰ %1。",module,Magento_AdminNotification
+"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","請前往<a href=""%1"">緩存管理</a>並刷新緩存類型。",module,Magento_AdminNotification
+"We were unable to synchronize one or more media files. Please refer to the log file for details.",有些媒體檔案未能同步，詳請參考例外日誌。,module,Magento_AdminNotification
+"Synchronization of media storages has been completed.",媒體庫同步已完成。,module,Magento_AdminNotification
+"Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.",你的網站伺服器設定未有阻止存取敏感檔案，請聯絡服務供應商。,module,Magento_AdminNotification
+"System Messages:",系統訊息︰,module,Magento_AdminNotification
+"Critical System Messages",關鍵系統消息,module,Magento_AdminNotification
+"Major System Messages",主要系統消息,module,Magento_AdminNotification
+"System messages",系統訊息,module,Magento_AdminNotification
+Close,關閉,module,Magento_AdminNotification
+"See All (",顯示全部（,module,Magento_AdminNotification
+unread),未讀）,module,Magento_AdminNotification
+"Show Toolbar",顯示工具列,module,Magento_AdminNotification
+"Show List",顯示清單,module,Magento_AdminNotification
+"Use HTTPS to Get Feed","使用 HTTPS 獲取資料",module,Magento_AdminNotification
+"Update Frequency",更新頻率,module,Magento_AdminNotification
+"Last Update",最後更新,module,Magento_AdminNotification
+Severity,嚴重程度,module,Magento_AdminNotification
+"Date Added",新增日期,module,Magento_AdminNotification
+Message,訊息,module,Magento_AdminNotification
+Actions,動作,module,Magento_AdminNotification
+"Manage Shopping Cart",管理購物車,module,Magento_AdvancedCheckout
+"Create Order",創建訂單,module,Magento_AdvancedCheckout
+Back,上一步,module,Magento_AdvancedCheckout
+"Add Products",新增商品,module,Magento_AdvancedCheckout
+"Update Items and Quantities",更新項目和數量,module,Magento_AdvancedCheckout
+"Are you sure you want to clear your cart?",確實要清除您的購物車嗎？,module,Magento_AdvancedCheckout
+"Clear my shopping cart",清除我的購物車,module,Magento_AdvancedCheckout
+"Add selections to my cart",將選項添加到我的車,module,Magento_AdvancedCheckout
+Cancel,取消,module,Magento_AdvancedCheckout
+"Shopping Cart for %1 in %2","在 %2 %1 的購物車",module,Magento_AdvancedCheckout
+"Select products you want to buy",選擇你想要買的產品,module,Magento_AdvancedCheckout
+Product,商品,module,Magento_AdvancedCheckout
+Price,價格,module,Magento_AdvancedCheckout
+Quantity,數量,module,Magento_AdvancedCheckout
+"Products in the Comparison List (%1)",在比較清單的產品(%1),module,Magento_AdvancedCheckout
+"Last ordered items (%1)","上次訂購的項目 (%1)",module,Magento_AdvancedCheckout
+Products,產品,module,Magento_AdvancedCheckout
+ID,ID,module,Magento_AdvancedCheckout
+SKU,SKU,module,Magento_AdvancedCheckout
+"Recently Compared Products (%1)","最近比較的產品 (%1)",module,Magento_AdvancedCheckout
+"Recently Viewed Products (%1)","最近流覽過的產品 (%1)",module,Magento_AdvancedCheckout
+"Add to Shopping Cart by SKU",從SKU添加到購物車,module,Magento_AdvancedCheckout
+"Add to Shopping Cart",添加到購物車,module,Magento_AdvancedCheckout
+"Wish List (%1)","願望清單 (%1)",module,Magento_AdvancedCheckout
+Apply,套用,module,Magento_AdvancedCheckout
+Configure,設定,module,Magento_AdvancedCheckout
+"Add to Order by SKU","從 SKU 添加訂單",module,Magento_AdvancedCheckout
+"Add to Order",添加到訂單,module,Magento_AdvancedCheckout
+"Add Products to Order",將產品添加到訂單,module,Magento_AdvancedCheckout
+"<span><span id=""sku-attention-num"">%1</span> product(s) require attention.</span>","<span><span id=""sku-attention-num"">%1</span> 件產品需要注意。</span>",module,Magento_AdvancedCheckout
+"Remove All",全部刪除,module,Magento_AdvancedCheckout
+"Only %1%2%3 left in stock","庫存中只剩有 %1%2%3",module,Magento_AdvancedCheckout
+"You can buy up to %1 of these per purchase.","每次購買，您最多可以購買 %1。",module,Magento_AdvancedCheckout
+"You must buy at least %1 of these per purchase.","你每次必須購買至少 %1 件產品。",module,Magento_AdvancedCheckout
+"Specify the product's options.",指定的產品選項。,module,Magento_AdvancedCheckout
+"Alert me when this item is available.",當產品可買時，請通知我。,module,Magento_AdvancedCheckout
+"This customer couldn't be found. Verify the customer and try again.","找不到此顧客，請查證後再試。",module,Magento_AdvancedCheckout
+"Shopping cart management is disabled for this customer.",此客戶的購物車被禁用。,module,Magento_AdvancedCheckout
+"This store couldn't be found. Verify the store and try again.","找不到此商店，請確認再試。",module,Magento_AdvancedCheckout
+Customers,顧客,module,Magento_AdvancedCheckout
+"Shopping Cart",購物車,module,Magento_AdvancedCheckout
+"You do not have access to this.",你沒有這個權限。,module,Magento_AdvancedCheckout
+"An error has occurred. See error log for details.",發生錯誤。請參閱錯誤日誌的詳細資訊。,module,Magento_AdvancedCheckout
+"You cannot configure a product.",您不能設置的產品。,module,Magento_AdvancedCheckout
+"You removed the items.",您刪除了項目。,module,Magento_AdvancedCheckout
+"You removed the item.",您刪除了項目。,module,Magento_AdvancedCheckout
+"You added %1 to your shopping cart.","您已添加 %1 到您的購物車",module,Magento_AdvancedCheckout
+"You cannot add a product.",您不能添加產品。,module,Magento_AdvancedCheckout
+"Order by SKU","按 SKU 排序",module,Magento_AdvancedCheckout
+"The SKU was not found in the catalog.","在目錄中找不到該商品的 SKU。",module,Magento_AdvancedCheckout
+"Availability: Out of stock.","庫存: 缺貨。",module,Magento_AdvancedCheckout
+"We don't have as many of these as you want.",我們沒有你想要的那麼多,module,Magento_AdvancedCheckout
+"You can't add this many to your cart.",您不能添加這麼多到您的購物車。,module,Magento_AdvancedCheckout
+"You need to choose options for your item.",您需要為您的項目選擇選項。,module,Magento_AdvancedCheckout
+"We can't add the item to your cart.",我們不能添加這項目到您的購物車。,module,Magento_AdvancedCheckout
+"Please enter an actual number in the ""Qty"" field.","請在""數量""欄位中輸入的實際數。",module,Magento_AdvancedCheckout
+"This product is assigned to another website.",本產品被分配給另一個網站。,module,Magento_AdvancedCheckout
+"You can add only enabled products.",您可以添加只啟用的產品。,module,Magento_AdvancedCheckout
+"You cannot upload this file.",你無法上載此檔。,module,Magento_AdvancedCheckout
+"The file is empty.",該檔案是空的。,module,Magento_AdvancedCheckout
+"You have not entered a product SKU. Please <a href=""%1"">click here</a> to add product(s) by SKU.","您還沒有輸入產品的 SKU。請 <a href=""%1""> 按一下此處</a> 以添加產品的 SKU。",module,Magento_AdvancedCheckout
+"You have not entered a product SKU.","您還沒有輸入產品的 SKU。",module,Magento_AdvancedCheckout
+"We can't add a product to cart by id ""%1"".","我們不能添加產品 id ""%1"" 到購物車。",module,Magento_AdvancedCheckout
+"Something went wrong while reordering this product.",本產品在重新排序時發生錯誤。,module,Magento_AdvancedCheckout
+"We can't find this wish list.",我們找不到這個願望清單。,module,Magento_AdvancedCheckout
+"You added %1 product to your shopping cart.","%1 件產品添加到您的購物車。",module,Magento_AdvancedCheckout
+"You added %1 products to your shopping cart.","%1 件產品添加到您的購物車。",module,Magento_AdvancedCheckout
+"%1 product requires your attention.","%1 產品需要您注意。",module,Magento_AdvancedCheckout
+"%1 products require your attention.","%1 產品需要您注意。",module,Magento_AdvancedCheckout
+"Yes, for Specified Customer Groups",是，給指定的客戶群。,module,Magento_AdvancedCheckout
+"Yes, for Everyone",是，給每個人,module,Magento_AdvancedCheckout
+No,否,module,Magento_AdvancedCheckout
+"Please upload the file in .csv format.","請上傳.csv 格式的檔。",module,Magento_AdvancedCheckout
+"%1 item(s) need your attention.","%1 個項目需要您的關注。",module,Magento_AdvancedCheckout
+"Apply Coupon Code",輸入優惠券代碼,module,Magento_AdvancedCheckout
+"Remove Coupon Code",刪除優惠券代碼,module,Magento_AdvancedCheckout
+Remove,刪除,module,Magento_AdvancedCheckout
+"The coupon code ""%1"" is not valid.","優惠券代碼""%1""無效。",module,Magento_AdvancedCheckout
+"Shopping Cart Items",購物車項目,module,Magento_AdvancedCheckout
+Qty,數量,module,Magento_AdvancedCheckout
+Subtotal,小計,module,Magento_AdvancedCheckout
+Discount,折扣,module,Magento_AdvancedCheckout
+"Row Subtotal","行 小計",module,Magento_AdvancedCheckout
+Action,操作,module,Magento_AdvancedCheckout
+"No ordered items",沒有訂購項目,module,Magento_AdvancedCheckout
+"Total %1 product(s)","總數 %1 產品",module,Magento_AdvancedCheckout
+Subtotal:,小計:,module,Magento_AdvancedCheckout
+"Please select",請選擇,module,Magento_AdvancedCheckout
+"Move to Wish List",移動到願望清單,module,Magento_AdvancedCheckout
+"No item specified.",沒有指定的項目。,module,Magento_AdvancedCheckout
+"Are you sure you want to remove this item?",您是否確定要刪除此項目？,module,Magento_AdvancedCheckout
+"SKU number","SKU 編號",module,Magento_AdvancedCheckout
+"Upload File",上載檔案,module,Magento_AdvancedCheckout
+"Your csv file must include ""sku"" and ""qty"" columns.","您的 csv 檔必須有""sku""和""數量""列。",module,Magento_AdvancedCheckout
+Reset,重設,module,Magento_AdvancedCheckout
+SKU:,SKU:,module,Magento_AdvancedCheckout
+"Only <span id=""%1_max_allowed"">%2</span> in stock","只有 <span id=""%1_max_allowed"">%2</span> 的庫存",module,Magento_AdvancedCheckout
+Item,項目,module,Magento_AdvancedCheckout
+"See price before order confirmation.",確認訂單前請確認價格。,module,Magento_AdvancedCheckout
+"What's this?",這是什麼？,module,Magento_AdvancedCheckout
+"Incl. Tax",含稅,module,Magento_AdvancedCheckout
+"Excl. Tax",不含稅,module,Magento_AdvancedCheckout
+"Edit item parameters",修改参數,module,Magento_AdvancedCheckout
+Edit,編輯,module,Magento_AdvancedCheckout
+"Remove item",刪除項目,module,Magento_AdvancedCheckout
+"Products Requiring Attention",需要注意的產品,module,Magento_AdvancedCheckout
+"Add to Cart",加到購物車,module,Magento_AdvancedCheckout
+Sku,Sku,module,Magento_AdvancedCheckout
+File,檔案,module,Magento_AdvancedCheckout
+"File extensions allowed: .csv",檔副檔名允許︰.csv,module,Magento_AdvancedCheckout
+"Add Row",添加行,module,Magento_AdvancedCheckout
+"Remove Row",刪除行,module,Magento_AdvancedCheckout
+"Add Products By SKU","添加產品的 SKU",module,Magento_AdvancedCheckout
+"Shopping Cart Management",購物車管理,module,Magento_AdvancedCheckout
+"View Shopping Cart",查看購物車,module,Magento_AdvancedCheckout
+"View and modify Shopping Cart",查看和修改購物車,module,Magento_AdvancedCheckout
+"Order by SKU Settings","由 SKU 順序",module,Magento_AdvancedCheckout
+"Enable Order by SKU on My Account in Storefront","在店面上我的賬戶啟用 SKU 排序",module,Magento_AdvancedCheckout
+"Customer Groups",客戶群組,module,Magento_AdvancedCheckout
+"Apply Coupon",申請優惠券,module,Magento_AdvancedCheckout
+"Order by SKU Description","按SKU 描述排列",module,Magento_AdvancedCheckout
+"Display a Link to Loading a Spreadsheet",顯示一個載入試算表的連結,module,Magento_AdvancedCheckout
+"Defines whether a link to My Account &gt; Order by SKU page will be displayed on the widget","定義是否連結到我的帳戶 &gt; 依照SKU 排序的頁面將顯示在widget內",module,Magento_AdvancedCheckout
+"Link Text",連結文字,module,Magento_AdvancedCheckout
+"The text of the link to the My Account &gt; Order by SKU page","到我的帳戶的連結顯示的文字內容 &gt; 依照SKU排序的頁面",module,Magento_AdvancedCheckout
+"Load a list of SKUs","加载 SKU 的列表",module,Magento_AdvancedCheckout
+"Order by SKU Template",按SKU排序的範本,module,Magento_AdvancedCheckout
+"Please correct the data sent.",請更正發送的資料。,module,Magento_AdvancedPricingImportExport
+"Entity type model '%1' is not found","找不到實體類型模型 '%1'",module,Magento_AdvancedPricingImportExport
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","實體類型必須屬於 \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType 裡的其中一個類型",module,Magento_AdvancedPricingImportExport
+"There are no product types available for export",無產品類型可輸出,module,Magento_AdvancedPricingImportExport
+"%1 class doesn't implement \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface","%1 類並不實現 \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface",module,Magento_AdvancedRule
+"Sales Rule",銷售規則,module,Magento_AdvancedSalesRule
+"Index sales rule",索引銷售規則,module,Magento_AdvancedSalesRule
+"Related Search Terms",相關的搜索詞彙,module,Magento_AdvancedSearch
+"Add New Search Term",添加新的搜索,module,Magento_AdvancedSearch
+button_label,button_label,module,Magento_AdvancedSearch
+"Missing search engine parameter.",找不到搜尋引擎參數,module,Magento_AdvancedSearch
+"Successful! Test again?","成功 ！再次測試嗎？",module,Magento_AdvancedSearch
+"Connection failed! Test again?","連接失敗 ！再次測試嗎？",module,Magento_AdvancedSearch
+"Enable Search Recommendations",啟用搜索建議,module,Magento_AdvancedSearch
+"When you enable this option your site may slow down.",當您啟用此選項時您的網站可能會慢下來。,module,Magento_AdvancedSearch
+"Search Recommendations Count",搜索建議數,module,Magento_AdvancedSearch
+"Show Results Count for Each Recommendation",顯示每項建議的結果數,module,Magento_AdvancedSearch
+"Enable Search Suggestions",啟用搜索的建議,module,Magento_AdvancedSearch
+"Search Suggestions Count",搜索建議數,module,Magento_AdvancedSearch
+"Show Results Count for Each Suggestion",顯示每個建議的結果數,module,Magento_AdvancedSearch
+ID,編號,module,Magento_AdvancedSearch
+"Search Query",搜尋查詢,module,Magento_AdvancedSearch
+Store,商店,module,Magento_AdvancedSearch
+Results,結果,module,Magento_AdvancedSearch
+Uses,使用,module,Magento_AdvancedSearch
+"Redirect URL",重定向超連結,module,Magento_AdvancedSearch
+"Suggested Term",建議的條件,module,Magento_AdvancedSearch
+Yes,確定,module,Magento_AdvancedSearch
+No,否,module,Magento_AdvancedSearch
+Action,操作,module,Magento_AdvancedSearch
+Edit,編輯,module,Magento_AdvancedSearch
+"RPC call failed, connection timed out after %time_out.","RPC 調用失敗，連接 %time_out 後逾時。",module,Magento_Amqp
+"Message has been rejected: %1","被拒絕的信息︰ %1",module,Magento_Amqp
+"Error while checking if topic is synchronous",檢查主題是否同步時出錯,module,Magento_Amqp
+"Subscription status",訂閱狀態,module,Magento_Analytics
+"Sorry, there has been an error processing your request. Please try again later.",對不起，在處理您的請求時出現錯誤。請稍後重試。,module,Magento_Analytics
+"There was an error save new configuration value.",保存新配值時出現錯誤。,module,Magento_Analytics
+"--Please Select--",-請選擇-,module,Magento_Analytics
+"Command was not found.",找不到命令。,module,Magento_Analytics
+TestMessage,測試訊息,module,Magento_Analytics
+"Apps and Games",應用程式和遊戲,module,Magento_Analytics
+"Athletic/Sporting Goods",體育/運動用品,module,Magento_Analytics
+"Art and Design",藝術與設計,module,Magento_Analytics
+Analytics,分析,module,Magento_Analytics
+API,API,module,Magento_Analytics
+Configuration,配置,module,Magento_Analytics
+Back,返回,module,Magento_AsynchronousOperations
+Done,完成,module,Magento_AsynchronousOperations
+Retry,重試,module,Magento_AsynchronousOperations
+"%1 item(s) have been scheduled for update.""","%1 項目已經安排更新。""",module,Magento_AsynchronousOperations
+"Bulk Actions Log",批量操作記錄,module,Magento_AsynchronousOperations
+"%1 item(s) are currently being updated.",%1項目正在更新。,module,Magento_AsynchronousOperations
+"%1 item(s) have been scheduled for update.","%1 項目已經安排更新。",module,Magento_AsynchronousOperations
+"%1 item(s) have been successfully updated.","%1 項目已成功更新。",module,Magento_AsynchronousOperations
+"%1 item(s) failed to update","%1 項目更新失敗",module,Magento_AsynchronousOperations
+Details,詳細資料,module,Magento_AsynchronousOperations
+"View Details",檢視詳細資料,module,Magento_AsynchronousOperations
+Dismiss,忽略,module,Magento_AsynchronousOperations
+"%1 items selected for mass update","大規模更新%1 項目",module,Magento_AsynchronousOperations
+", %1 successfully updated","%1 已成功更新",module,Magento_AsynchronousOperations
+", %1 failed to update","%1 更新失敗",module,Magento_AsynchronousOperations
+"Something went wrong.",發生錯誤,module,Magento_AsynchronousOperations
+"Action Log",操作記錄,module,Magento_AsynchronousOperations
+"Bulk Actions",批量操作,module,Magento_AsynchronousOperations
