@@ -4,6 +4,7 @@
 
 Read more [Magento 2 Chinese Taiwan Language Pack](https://www.mageplaza.com/magento-2-chinese-taiwan-language-pack.html)
 
+![Mageplaza Chinese Taiwan language pack](https://i.imgur.com/qjWPj1W.png)
 
 ## Overview
 
