@@ -2,7 +2,7 @@
 
 
 
-Read more [Magento 2 Chinese Taiwan Language Pack](https://www.mageplaza.com/magento-2-chinese-taiwan-language-pack.html)
+Read more [Magento 2 Chinese Taiwan Language Pack](https://www.mageplaza.com/magento-2-chinese_taiwan-language-pack.html)
 
 ![Mageplaza Chinese Taiwan language pack](https://i.imgur.com/qjWPj1W.png)
 
@@ -20,11 +20,11 @@ Read more [Magento 2 Chinese Taiwan Language Pack](https://www.mageplaza.com/mag
 
 This is status of Chinese Taiwan Language Pack, you can see how many percentage of this project has been done.
 
-![language pack](http://progressed.io/bar/11?title=translated)
+![language pack](http://progressed.io/bar/{{process}}?title=translated)
 
 It is not fully translated? Feel free to contribute:
-- [On Crowdin](https://crowdin.com/project/magento-2): It takes time to approve your contribution by Magento team.
-- [On Github](https://github.com/mageplaza/magento-2-chinese-taiwan-language-pack/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
+- [On Crowdin]({{crowdin}}): It takes time to approve your contribution by Magento team.
+- [On Github]({{github_url}}/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
 
 
 Find other [language packs here](https://www.mageplaza.com/kb/magento-2-language-pack/)
@@ -39,24 +39,14 @@ Install the Chinese Taiwan language pack via composer is never easier.
 **Install Chinese Taiwan pack**:
 
 ```
-composer require mageplaza/magento-2-chinese-taiwan-language-pack:dev-master
-php bin/magento setup:static-content:deploy zh_Hant_TW
-php bin/magento indexer:reindex
-php bin/magento cache:clean
-php bin/magento cache:flush
-
+{{composer_install}}
 ```
 
 
 **Update  Chinese Taiwan pack**:
 
 ```
-composer update mageplaza/magento-2-chinese-taiwan-language-pack:dev-master
-php bin/magento setup:static-content:deploy zh_Hant_TW
-php bin/magento indexer:reindex
-php bin/magento cache:clean
-php bin/magento cache:flush
-
+{{composer_update}}
 ```
 
 #### Authentication required (If any)
@@ -97,7 +87,7 @@ Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html
 unzip master.zip app/i18n/Mageplaza/
 ```
 
-Rename folder `magento-2-chinese-taiwan-language-pack` to `zh_hant_tw`.
+Rename folder `{{github_repo_name}}` to `{{magento_package_code}}`.
 
 
 You also can unzip locally and upload them to Magento 2 root folder.
@@ -113,18 +103,18 @@ To download and install Chinese Taiwan pack manually, you have to access to your
 
 #### Step 1: Download the package
 
-- [Download .zip](https://github.com/mageplaza/magento-2-chinese-taiwan-language-pack/archive/master.zip)
-- [Download .tar.gz](https://github.com/mageplaza/magento-2-chinese-taiwan-language-pack/tarball/master)
+- [Download .zip]({{github_latest_version}})
+- [Download .tar.gz]({{github_latest_version_tar}})
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/zh_hant_tw/`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/{{magento_package_code}}/`
 
 See this screenshot:
 
 ![Chinese Taiwan pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
 
-This language pack code is: **zh_hant_tw**
+This language pack code is: **{{magento_package_code}}**
 
 #### Step 2: Flush cache
 
@@ -140,37 +130,32 @@ Now time to active the Chinese Taiwan language pack for your Magento 2 store. Fr
 ## 4. How to contribute
 
 Contribute to this language at :
-- [On Crowdin](https://crowdin.com/project/magento-2): It takes time to approve your contribution by Magento team.
-- [On Github](https://github.com/mageplaza/magento-2-chinese-taiwan-language-pack/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
+- [On Crowdin]({{crowdin}}): It takes time to approve your contribution by Magento team.
+- [On Github]({{github_url}}/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
 
 
 ## 5. Supported Magento versions
 
 It supports all Magento 2 versions include [Magento 2 open-source](https://www.mageplaza.com/download-magento/) (Community), Magento 2 Commerce (EE), Magento Cloud, Magento B2B, Magento MSI.
 
-
-- Magento v2.0.x
-- Magento v2.1.x
-- Magento v2.2.x
-- Magento v2.3.x
-
+{{magento_versions}}
 
 
 ## 6. Notes 
 
 - This project automatically updates weekly from Crowdin.
-- Any question, issue please [create a new issue](https://github.com/mageplaza/magento-2-chinese-taiwan-language-pack/issues/new)
+- Any question, issue please [create a new issue]({{github_url}}/issues/new)
 
 ## 7. Language package authors
 
-- [Magento official translations project for Magento 2](https://crowdin.com/project/magento-2)
+- [Magento official translations project for Magento 2]({{crowdin}})
 - Magento Community
 - Language packages built by [Mageplaza team](https://www.mageplaza.com/)
 
 
 ## 8. References 
 
-- https://www.mageplaza.com/magento-2-chinese-taiwan-language-pack.html
+- https://www.mageplaza.com/magento-2-chinese_taiwan-language-pack.html
 - https://crowdin.com/project/magento-2
 
 
