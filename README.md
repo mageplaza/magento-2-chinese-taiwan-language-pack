@@ -40,7 +40,7 @@ Install the Chinese Taiwan language pack via composer is never easier.
 
 ```
 composer require mageplaza/magento-2-chinese-taiwan-language-pack:dev-master
-php bin/magento setup:static-content:deploy zh_Hant_TW
+php bin/magento setup:static-content:deploy zh_TW
 php bin/magento indexer:reindex
 php bin/magento cache:clean
 php bin/magento cache:flush
@@ -52,7 +52,7 @@ php bin/magento cache:flush
 
 ```
 composer update mageplaza/magento-2-chinese-taiwan-language-pack:dev-master
-php bin/magento setup:static-content:deploy zh_Hant_TW
+php bin/magento setup:static-content:deploy zh_TW
 php bin/magento indexer:reindex
 php bin/magento cache:clean
 php bin/magento cache:flush
@@ -97,7 +97,7 @@ Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html
 unzip master.zip app/i18n/Mageplaza/
 ```
 
-Rename folder `magento-2-chinese-taiwan-language-pack` to `zh_hant_tw`.
+Rename folder `magento-2-chinese-taiwan-language-pack` to `zh_tw`.
 
 
 You also can unzip locally and upload them to Magento 2 root folder.
@@ -118,13 +118,13 @@ To download and install Chinese Taiwan pack manually, you have to access to your
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/zh_hant_tw/`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/zh_tw/`
 
 See this screenshot:
 
 ![Chinese Taiwan pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
 
-This language pack code is: **zh_hant_tw**
+This language pack code is: **zh_tw**
 
 #### Step 2: Flush cache
 

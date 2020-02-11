@@ -10,12 +10,12 @@
  *
  *                     @category  Mageplaza
  *                     @package   Mageplaza_Chinese Taiwan
- *                     @copyright Copyright (c) 2019
+ *                     @copyright Copyright (c) 2020
  *                     @license   https://www.mageplaza.com/LICENSE.txt
  */
 
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::LANGUAGE,
-    'mageplaza_zh_hant_tw',
+    'mageplaza_zh_tw',
     __DIR__
 );
